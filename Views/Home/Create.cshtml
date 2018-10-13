@@ -1,0 +1,35 @@
+﻿@model QualificationWork.Models.Nomenclature
+@{
+    ViewBag.Title = "Добавление услуг";
+}
+<form asp-action="create" asp-controller="home">
+    <div class="form-group">
+        <label asp-for="Code" class="control-label">Код</label>
+        <input type="text" asp-for="Code" class="form-control" />
+    </div>
+    <div class="form-group">
+        <string asp-for="Name" class="control-label">Название</string>
+        <input type="text" asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <DateTime asp-for="Date" class="control-label">Дата</DateTime>
+        <input type="text" asp-for="Date" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CreatedDate" class="control-label">Создатель</label>
+        <input type="number" asp-for="CreatedDate" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CreateUserId" class="control-label">Создатель</label>
+        <input type="number" asp-for="CreateUserId" class="form-control" />
+    </div>    <div class="form-group">
+        <label asp-for="UpdateDate" class="control-label">Создатель</label>
+        <input type="number" asp-for="UpdateDate" class="form-control" />
+    </div>    <div class="form-group">
+        <label asp-for="UpdateUserId" class="control-label">Создатель</label>
+        <input type="number" asp-for="UpdateUserId" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Send" class="btn btn-default" />
+    </div>
+</form>

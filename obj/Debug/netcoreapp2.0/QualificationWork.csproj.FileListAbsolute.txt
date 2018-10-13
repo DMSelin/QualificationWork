@@ -1,0 +1,31 @@
+D:\ASP.NET\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.deps.json
+D:\ASP.NET\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.runtimeconfig.json
+D:\ASP.NET\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.runtimeconfig.dev.json
+D:\ASP.NET\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.dll
+D:\ASP.NET\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.pdb
+D:\ASP.NET\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.csproj.CoreCompileInputs.cache
+D:\ASP.NET\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.AssemblyInfoInputs.cache
+D:\ASP.NET\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.AssemblyInfo.cs
+D:\ASP.NET\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.dll
+D:\ASP.NET\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.pdb
+D:\ВАЖНОЕ\Дипомный тест\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.deps.json
+D:\ВАЖНОЕ\Дипомный тест\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.runtimeconfig.json
+D:\ВАЖНОЕ\Дипомный тест\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.runtimeconfig.dev.json
+D:\ВАЖНОЕ\Дипомный тест\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.dll
+D:\ВАЖНОЕ\Дипомный тест\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.pdb
+D:\ВАЖНОЕ\Дипомный тест\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.csprojAssemblyReference.cache
+D:\ВАЖНОЕ\Дипомный тест\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.csproj.CoreCompileInputs.cache
+D:\ВАЖНОЕ\Дипомный тест\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.AssemblyInfoInputs.cache
+D:\ВАЖНОЕ\Дипомный тест\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.AssemblyInfo.cs
+D:\ВАЖНОЕ\Дипомный тест\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.dll
+D:\ВАЖНОЕ\Дипомный тест\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.pdb
+D:\Test\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.deps.json
+D:\Test\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.runtimeconfig.json
+D:\Test\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.runtimeconfig.dev.json
+D:\Test\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.dll
+D:\Test\QualificationWork\QualificationWork\bin\Debug\netcoreapp2.0\QualificationWork.pdb
+D:\Test\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.csproj.CoreCompileInputs.cache
+D:\Test\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.AssemblyInfoInputs.cache
+D:\Test\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.AssemblyInfo.cs
+D:\Test\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.dll
+D:\Test\QualificationWork\QualificationWork\obj\Debug\netcoreapp2.0\QualificationWork.pdb
